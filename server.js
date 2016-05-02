@@ -6,10 +6,6 @@ var left 	= {color: 'blue', intensity: 'high'};
 var middle 	= {color: 'blue', intensity: 'high'};
 var right 	= {color: 'blue', intensity: 'high'};
 
-var leftOff 	= {color: 'green', intensity: 'low'};
-var middleOff 	= {color: 'green', intensity: 'low'};
-var rightOff 	= {color: 'green', intensity: 'low'};
-
 // To find your keyboard: sudo evtest /dev/input/eventX
 var keyboard = new Logger('event4'); // mine is event4
 
