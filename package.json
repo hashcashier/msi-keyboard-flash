@@ -1,0 +1,8 @@
+{
+  "name": "led-manager",
+  "main": "server.js",
+  "dependencies": {
+    "msi-keyboard": "0.0.4",
+    "node-keylogger": "0.0.1"
+  }
+}
